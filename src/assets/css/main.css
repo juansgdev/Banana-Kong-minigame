@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gameScreen {
+    display: flex;
+    margin: 20px auto;
+    width: 640px;
+    height: 360px;
+    background: blue;
+}
